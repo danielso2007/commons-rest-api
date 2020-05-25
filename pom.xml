@@ -90,6 +90,7 @@
 			</snapshots>
 		</repository>
 	</repositories>
+
 	<pluginRepositories>
 		<pluginRepository>
 			<id>spring-milestones</id>
@@ -325,5 +326,13 @@
 			</roles>
 		</developer>
 	</developers>
+
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/danielso2007/commons-rest-api</url>
+		</repository>
+	</distributionManagement>
 
 </project>
