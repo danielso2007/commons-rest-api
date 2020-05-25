@@ -12,9 +12,6 @@ on:
     - v*
     paths-ignore:
     - '**.md'
-    - '**.sh'
-    - '**.json'
-    - '**.yml'
   pull_request:
     branches:
     - master
@@ -38,8 +35,7 @@ jobs:
         architecture: 'x64'
     - name: Test with Maven
       run: |
-        mvn -q -am -Ptest clean test jacoco:report
-        bash <(curl -s https://codecov.io/bash) -t ${{ secrets.CODECOV_TOKEN }}
+        mvn -q -am -Ptest clean test
   Build:
     needs: Test
     runs-on: ubuntu-latest
