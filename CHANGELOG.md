@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/danielso2007/virtualLibraryAPI/compare/v1.0.0...v1.0.1) (2020-05-25)
+
+
+### Features
+
+* Publicação do pacote do projeto. ([15dbe39](https://github.com/danielso2007/virtualLibraryAPI/commit/15dbe39c86738667f3a63fdd83442c900250fbde))
+
+
+### Bug Fixes
+
+* Correção do action para publicar o pacote. ([e851c79](https://github.com/danielso2007/virtualLibraryAPI/commit/e851c79937d427b3e0ad13dc2793f0694b8c5773))
+
 ## 1.0.0 (2020-05-25)
 
 
