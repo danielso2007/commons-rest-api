@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/danielso2007/commons-rest-api/badge/master)](https://www.codefactor.io/repository/github/danielso2007/commons-rest-api/overview/master)
 ![CommonsRestAPI](https://github.com/danielso2007/commons-rest-api/workflows/CommonsRestAPI/badge.svg)
 ![GitHub package version](https://img.shields.io/github/package-json/v/danielso2007/commons-rest-api.svg)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/danielso2007/commons-rest-api.svg)](https://github.com/danielso2007/commons-rest-api/pulls)
